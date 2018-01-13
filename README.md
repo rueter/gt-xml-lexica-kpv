@@ -22,5 +22,5 @@ If you use this library in an academic publication, I would be ever so grateful 
 
 Marina Fedina, Paula Kokkonen, Jack Rueter. (2018, January 11). Komi-Zyrian to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146852
 
-[![DOI](https://zenodo.org/badge/1146852.svg)](https://zenodo.org/badge/latestdoi/1146852)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1146852.svg)](https://doi.org/10.5281/zenodo.1146852)
 
