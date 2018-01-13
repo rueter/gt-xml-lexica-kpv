@@ -1,6 +1,5 @@
 # gt-xml-lexica-kpv
 Giellatekno xml lexica for Komi-Zyrian (Permic, Uralic)
-https://zenodo.org/badge/117345067.svg
 
 
 This material has been undergoing development in the Giellatekno infrastructure since 2004.
@@ -17,4 +16,11 @@ PMLRI: Permic Morpho-Lexical Resources and Implementation
 (Rueter, J. & Fedina, Marina Fu-lab)
 
 And continuous support from Trond Trosterud, Ciprian Gerstenberger, Sjur Moshagen from Tromsø, Norway.
+
+# Cite
+If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
+
+Jack Rueter. (2018, January 11). Komi-Zyrian to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.117345067
+
+[![DOI](https://zenodo.org/badge/117345067.svg)](https://zenodo.org/badge/latestdoi/117345067)
 
