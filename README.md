@@ -18,7 +18,7 @@ PMLRI: Permic Morpho-Lexical Resources and Implementation
 And continuous support from Trond Trosterud, Ciprian Gerstenberger, Sjur Moshagen from Tromsø, Norway.
 
 # Cite
-If you use this library in an academic publication, I would be ever so grateful if you cited it as follows:
+If you use this data set in an academic publication, I would be ever so grateful if you cited it as follows:
 
 Marina Fedina, Paula Kokkonen, Jack Rueter. (2018, January 11). Komi-Zyrian to X nouns (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.1146852
 
